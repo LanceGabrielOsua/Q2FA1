@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    margin: 0 15%;
+    width: 75%;
+    border: 2px solid blue;
+  }
+  
+  .lighthouse {
+    background-color: lightgray;
+    margin-top: 20px;
+    padding: 0;
+  }
+  
+  .top-lighthouses {
+    background-color: lightgray;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+  }
+  div {
+    background-color: lightgray;
+  }
